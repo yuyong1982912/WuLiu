@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WuLiu">
+</Property><Property Name="Solution File" Value="D:\SVN\WuLiu\WuLiu.sln">
+</Property><Property Name="Date" Value="Tuesday, May 06, 2014">
+</Property><Property Name="Time" Value="11:36 AM">
+</Property></Properties><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Common" Source="Common\Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WuLiu" Source="WuLiu\WuLiu.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WuLiu" Source="WuLiu\WuLiu.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WuLiu.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WuLiu.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WuLiu" Source="WuLiu\WuLiu.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

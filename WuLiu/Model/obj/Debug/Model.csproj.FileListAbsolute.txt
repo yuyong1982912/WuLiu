@@ -1,0 +1,10 @@
+I:\WuLiu\WuLiu\Model\bin\Debug\Maticsoft.Model.dll
+I:\WuLiu\WuLiu\Model\bin\Debug\Maticsoft.Model.pdb
+I:\WuLiu\WuLiu\Model\obj\Debug\ResolveAssemblyReference.cache
+I:\WuLiu\WuLiu\Model\obj\Debug\Maticsoft.Model.dll
+I:\WuLiu\WuLiu\Model\obj\Debug\Maticsoft.Model.pdb
+D:\WuLiu\WuLiu\Model\bin\Debug\Maticsoft.Model.dll
+D:\WuLiu\WuLiu\Model\bin\Debug\Maticsoft.Model.pdb
+D:\WuLiu\WuLiu\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\WuLiu\WuLiu\Model\obj\Debug\Maticsoft.Model.dll
+D:\WuLiu\WuLiu\Model\obj\Debug\Maticsoft.Model.pdb
